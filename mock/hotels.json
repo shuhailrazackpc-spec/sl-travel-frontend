@@ -1,0 +1,1477 @@
+[
+  {
+    "name": "Mirissa Hotel 1",
+    "location": "Mirissa",
+    "price": 114.75,
+    "rating": 3.9,
+    "amenities": [
+      "Spa",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Mirissa Hotel 2",
+    "location": "Mirissa",
+    "price": 89.43,
+    "rating": 3.1,
+    "amenities": [
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Mirissa Hotel 3",
+    "location": "Mirissa",
+    "price": 112.97,
+    "rating": 3.9,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Mirissa Hotel 4",
+    "location": "Mirissa",
+    "price": 108.15,
+    "rating": 3.0,
+    "amenities": [
+      "Air Conditioning",
+      "Spa",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Mirissa Hotel 5",
+    "location": "Mirissa",
+    "price": 99.25,
+    "rating": 4.7,
+    "amenities": [
+      "Spa",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Mirissa Hotel 6",
+    "location": "Mirissa",
+    "price": 100.72,
+    "rating": 3.3,
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Breakfast"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Mirissa Hotel 7",
+    "location": "Mirissa",
+    "price": 117.86,
+    "rating": 3.0,
+    "amenities": [
+      "Air Conditioning",
+      "WiFi",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Mirissa Hotel 8",
+    "location": "Mirissa",
+    "price": 110.64,
+    "rating": 4.6,
+    "amenities": [
+      "Air Conditioning",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Mirissa Hotel 9",
+    "location": "Mirissa",
+    "price": 88.17,
+    "rating": 4.4,
+    "amenities": [
+      "Parking",
+      "Spa",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Mirissa Hotel 10",
+    "location": "Mirissa",
+    "price": 72.11,
+    "rating": 4.7,
+    "amenities": [
+      "Parking",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Galle Hotel 1",
+    "location": "Galle",
+    "price": 66.28,
+    "rating": 4.7,
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Galle Hotel 2",
+    "location": "Galle",
+    "price": 55.53,
+    "rating": 3.5,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Spa"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Galle Hotel 3",
+    "location": "Galle",
+    "price": 77.58,
+    "rating": 4.7,
+    "amenities": [
+      "Parking",
+      "Spa",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Galle Hotel 4",
+    "location": "Galle",
+    "price": 40.29,
+    "rating": 4.6,
+    "amenities": [
+      "WiFi",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Galle Hotel 5",
+    "location": "Galle",
+    "price": 149.79,
+    "rating": 3.3,
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Galle Hotel 6",
+    "location": "Galle",
+    "price": 98.88,
+    "rating": 4.8,
+    "amenities": [
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Galle Hotel 7",
+    "location": "Galle",
+    "price": 121.55,
+    "rating": 4.4,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Galle Hotel 8",
+    "location": "Galle",
+    "price": 45.77,
+    "rating": 3.6,
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Air Conditioning"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Galle Hotel 9",
+    "location": "Galle",
+    "price": 76.3,
+    "rating": 4.7,
+    "amenities": [
+      "Spa",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Galle Hotel 10",
+    "location": "Galle",
+    "price": 135.18,
+    "rating": 3.7,
+    "amenities": [
+      "Pool",
+      "Air Conditioning"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Kandy Hotel 1",
+    "location": "Kandy",
+    "price": 94.03,
+    "rating": 4.1,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Kandy Hotel 2",
+    "location": "Kandy",
+    "price": 110.84,
+    "rating": 3.0,
+    "amenities": [
+      "Spa",
+      "Pool",
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Kandy Hotel 3",
+    "location": "Kandy",
+    "price": 101.57,
+    "rating": 4.2,
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Air Conditioning",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Kandy Hotel 4",
+    "location": "Kandy",
+    "price": 110.96,
+    "rating": 4.5,
+    "amenities": [
+      "Pool",
+      "Spa",
+      "Parking",
+      "WiFi"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Kandy Hotel 5",
+    "location": "Kandy",
+    "price": 59.06,
+    "rating": 4.3,
+    "amenities": [
+      "Breakfast",
+      "Parking",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Kandy Hotel 6",
+    "location": "Kandy",
+    "price": 122.29,
+    "rating": 4.0,
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Spa",
+      "Air Conditioning"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Kandy Hotel 7",
+    "location": "Kandy",
+    "price": 94.17,
+    "rating": 3.0,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Kandy Hotel 8",
+    "location": "Kandy",
+    "price": 45.94,
+    "rating": 3.5,
+    "amenities": [
+      "WiFi",
+      "Spa",
+      "Air Conditioning"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Kandy Hotel 9",
+    "location": "Kandy",
+    "price": 127.42,
+    "rating": 4.8,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Spa",
+      "Air Conditioning"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Kandy Hotel 10",
+    "location": "Kandy",
+    "price": 80.32,
+    "rating": 3.7,
+    "amenities": [
+      "Parking",
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Colombo Hotel 1",
+    "location": "Colombo",
+    "price": 130.49,
+    "rating": 3.7,
+    "amenities": [
+      "Parking",
+      "Air Conditioning",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Colombo Hotel 2",
+    "location": "Colombo",
+    "price": 58.83,
+    "rating": 3.6,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Spa"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Colombo Hotel 3",
+    "location": "Colombo",
+    "price": 84.21,
+    "rating": 4.6,
+    "amenities": [
+      "Air Conditioning",
+      "Pool",
+      "Parking",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Colombo Hotel 4",
+    "location": "Colombo",
+    "price": 38.7,
+    "rating": 4.9,
+    "amenities": [
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Colombo Hotel 5",
+    "location": "Colombo",
+    "price": 40.92,
+    "rating": 3.7,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Spa"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Colombo Hotel 6",
+    "location": "Colombo",
+    "price": 129.04,
+    "rating": 3.9,
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Colombo Hotel 7",
+    "location": "Colombo",
+    "price": 74.81,
+    "rating": 3.8,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Breakfast",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Colombo Hotel 8",
+    "location": "Colombo",
+    "price": 119.26,
+    "rating": 4.3,
+    "amenities": [
+      "Parking",
+      "Air Conditioning",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Colombo Hotel 9",
+    "location": "Colombo",
+    "price": 45.25,
+    "rating": 4.5,
+    "amenities": [
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Colombo Hotel 10",
+    "location": "Colombo",
+    "price": 134.54,
+    "rating": 4.2,
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Air Conditioning"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Hikkaduwa Hotel 1",
+    "location": "Hikkaduwa",
+    "price": 67.65,
+    "rating": 4.0,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Hikkaduwa Hotel 2",
+    "location": "Hikkaduwa",
+    "price": 68.45,
+    "rating": 4.0,
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Breakfast",
+      "Air Conditioning"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Hikkaduwa Hotel 3",
+    "location": "Hikkaduwa",
+    "price": 138.81,
+    "rating": 4.4,
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Hikkaduwa Hotel 4",
+    "location": "Hikkaduwa",
+    "price": 110.68,
+    "rating": 4.2,
+    "amenities": [
+      "Air Conditioning",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Hikkaduwa Hotel 5",
+    "location": "Hikkaduwa",
+    "price": 102.94,
+    "rating": 3.1,
+    "amenities": [
+      "Air Conditioning",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Hikkaduwa Hotel 6",
+    "location": "Hikkaduwa",
+    "price": 75.39,
+    "rating": 3.3,
+    "amenities": [
+      "Spa",
+      "Pool",
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Hikkaduwa Hotel 7",
+    "location": "Hikkaduwa",
+    "price": 91.27,
+    "rating": 3.3,
+    "amenities": [
+      "Spa",
+      "Air Conditioning",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Hikkaduwa Hotel 8",
+    "location": "Hikkaduwa",
+    "price": 121.71,
+    "rating": 3.7,
+    "amenities": [
+      "Spa",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Hikkaduwa Hotel 9",
+    "location": "Hikkaduwa",
+    "price": 35.63,
+    "rating": 3.7,
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Hikkaduwa Hotel 10",
+    "location": "Hikkaduwa",
+    "price": 89.51,
+    "rating": 4.4,
+    "amenities": [
+      "Air Conditioning",
+      "WiFi",
+      "Parking",
+      "Spa"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Arugam Bay Hotel 1",
+    "location": "Arugam Bay",
+    "price": 93.7,
+    "rating": 3.1,
+    "amenities": [
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Arugam Bay Hotel 2",
+    "location": "Arugam Bay",
+    "price": 47.46,
+    "rating": 3.7,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Air Conditioning"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Arugam Bay Hotel 3",
+    "location": "Arugam Bay",
+    "price": 130.06,
+    "rating": 4.2,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Air Conditioning"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Arugam Bay Hotel 4",
+    "location": "Arugam Bay",
+    "price": 63.52,
+    "rating": 4.9,
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Arugam Bay Hotel 5",
+    "location": "Arugam Bay",
+    "price": 60.74,
+    "rating": 3.9,
+    "amenities": [
+      "Air Conditioning",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Arugam Bay Hotel 6",
+    "location": "Arugam Bay",
+    "price": 82.05,
+    "rating": 4.7,
+    "amenities": [
+      "Breakfast",
+      "Air Conditioning",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Arugam Bay Hotel 7",
+    "location": "Arugam Bay",
+    "price": 64.57,
+    "rating": 4.9,
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Arugam Bay Hotel 8",
+    "location": "Arugam Bay",
+    "price": 72.48,
+    "rating": 4.8,
+    "amenities": [
+      "WiFi",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Arugam Bay Hotel 9",
+    "location": "Arugam Bay",
+    "price": 52.0,
+    "rating": 4.2,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Spa",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Arugam Bay Hotel 10",
+    "location": "Arugam Bay",
+    "price": 67.07,
+    "rating": 3.1,
+    "amenities": [
+      "Pool",
+      "Air Conditioning",
+      "Breakfast"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Sigiriya Hotel 1",
+    "location": "Sigiriya",
+    "price": 38.59,
+    "rating": 3.3,
+    "amenities": [
+      "WiFi",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Sigiriya Hotel 2",
+    "location": "Sigiriya",
+    "price": 121.1,
+    "rating": 3.0,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Sigiriya Hotel 3",
+    "location": "Sigiriya",
+    "price": 98.43,
+    "rating": 3.5,
+    "amenities": [
+      "WiFi",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Sigiriya Hotel 4",
+    "location": "Sigiriya",
+    "price": 142.64,
+    "rating": 4.1,
+    "amenities": [
+      "Pool",
+      "Air Conditioning",
+      "Breakfast",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Sigiriya Hotel 5",
+    "location": "Sigiriya",
+    "price": 103.02,
+    "rating": 4.5,
+    "amenities": [
+      "Spa",
+      "WiFi",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Sigiriya Hotel 6",
+    "location": "Sigiriya",
+    "price": 49.2,
+    "rating": 3.0,
+    "amenities": [
+      "Air Conditioning",
+      "Spa",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Sigiriya Hotel 7",
+    "location": "Sigiriya",
+    "price": 113.69,
+    "rating": 3.4,
+    "amenities": [
+      "Spa",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Sigiriya Hotel 8",
+    "location": "Sigiriya",
+    "price": 143.05,
+    "rating": 3.9,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Sigiriya Hotel 9",
+    "location": "Sigiriya",
+    "price": 131.93,
+    "rating": 4.3,
+    "amenities": [
+      "Air Conditioning",
+      "Breakfast",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Sigiriya Hotel 10",
+    "location": "Sigiriya",
+    "price": 122.84,
+    "rating": 3.8,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 1",
+    "location": "Yala",
+    "price": 59.43,
+    "rating": 3.2,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Breakfast",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 2",
+    "location": "Yala",
+    "price": 126.14,
+    "rating": 3.3,
+    "amenities": [
+      "Breakfast",
+      "Spa",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 3",
+    "location": "Yala",
+    "price": 86.06,
+    "rating": 4.2,
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Yala Hotel 4",
+    "location": "Yala",
+    "price": 107.59,
+    "rating": 4.4,
+    "amenities": [
+      "Air Conditioning",
+      "Breakfast",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Yala Hotel 5",
+    "location": "Yala",
+    "price": 113.52,
+    "rating": 4.1,
+    "amenities": [
+      "Air Conditioning",
+      "Breakfast",
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Yala Hotel 6",
+    "location": "Yala",
+    "price": 95.73,
+    "rating": 3.3,
+    "amenities": [
+      "Spa",
+      "Breakfast",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Yala Hotel 7",
+    "location": "Yala",
+    "price": 65.43,
+    "rating": 4.9,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Spa",
+      "WiFi"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 8",
+    "location": "Yala",
+    "price": 143.0,
+    "rating": 4.6,
+    "amenities": [
+      "Breakfast",
+      "Air Conditioning"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 9",
+    "location": "Yala",
+    "price": 95.61,
+    "rating": 3.0,
+    "amenities": [
+      "Air Conditioning",
+      "WiFi",
+      "Pool"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Yala Hotel 10",
+    "location": "Yala",
+    "price": 50.92,
+    "rating": 4.3,
+    "amenities": [
+      "WiFi",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Ella Hotel 1",
+    "location": "Ella",
+    "price": 133.77,
+    "rating": 4.3,
+    "amenities": [
+      "Parking",
+      "Spa",
+      "Breakfast"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Ella Hotel 2",
+    "location": "Ella",
+    "price": 66.61,
+    "rating": 4.9,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Ella Hotel 3",
+    "location": "Ella",
+    "price": 47.09,
+    "rating": 3.5,
+    "amenities": [
+      "Air Conditioning",
+      "Spa",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Ella Hotel 4",
+    "location": "Ella",
+    "price": 97.67,
+    "rating": 4.1,
+    "amenities": [
+      "Spa",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Ella Hotel 5",
+    "location": "Ella",
+    "price": 72.63,
+    "rating": 3.0,
+    "amenities": [
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Ella Hotel 6",
+    "location": "Ella",
+    "price": 123.22,
+    "rating": 3.8,
+    "amenities": [
+      "Air Conditioning",
+      "Parking",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Ella Hotel 7",
+    "location": "Ella",
+    "price": 90.93,
+    "rating": 3.1,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Pool"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Ella Hotel 8",
+    "location": "Ella",
+    "price": 49.27,
+    "rating": 3.6,
+    "amenities": [
+      "Air Conditioning",
+      "Breakfast",
+      "Pool",
+      "WiFi"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Ella Hotel 9",
+    "location": "Ella",
+    "price": 138.37,
+    "rating": 4.7,
+    "amenities": [
+      "Breakfast",
+      "Spa",
+      "Air Conditioning",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Ella Hotel 10",
+    "location": "Ella",
+    "price": 77.14,
+    "rating": 3.4,
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Air Conditioning"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Unawatuna Hotel 1",
+    "location": "Unawatuna",
+    "price": 96.76,
+    "rating": 3.5,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Air Conditioning",
+      "WiFi"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Unawatuna Hotel 2",
+    "location": "Unawatuna",
+    "price": 42.21,
+    "rating": 4.2,
+    "amenities": [
+      "Pool",
+      "Breakfast",
+      "Parking"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Unawatuna Hotel 3",
+    "location": "Unawatuna",
+    "price": 139.08,
+    "rating": 4.6,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Breakfast",
+      "Spa"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Unawatuna Hotel 4",
+    "location": "Unawatuna",
+    "price": 48.22,
+    "rating": 4.3,
+    "amenities": [
+      "Pool",
+      "WiFi",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Unawatuna Hotel 5",
+    "location": "Unawatuna",
+    "price": 48.26,
+    "rating": 3.4,
+    "amenities": [
+      "Pool",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Unawatuna Hotel 6",
+    "location": "Unawatuna",
+    "price": 48.66,
+    "rating": 3.0,
+    "amenities": [
+      "WiFi",
+      "Breakfast",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Unawatuna Hotel 7",
+    "location": "Unawatuna",
+    "price": 53.33,
+    "rating": 3.8,
+    "amenities": [
+      "Pool",
+      "Air Conditioning",
+      "Spa",
+      "Parking"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Unawatuna Hotel 8",
+    "location": "Unawatuna",
+    "price": 132.3,
+    "rating": 4.2,
+    "amenities": [
+      "Air Conditioning",
+      "Pool",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Unawatuna Hotel 9",
+    "location": "Unawatuna",
+    "price": 71.27,
+    "rating": 3.2,
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Spa",
+      "WiFi"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Unawatuna Hotel 10",
+    "location": "Unawatuna",
+    "price": 146.2,
+    "rating": 3.6,
+    "amenities": [
+      "Spa",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Bentota Hotel 1",
+    "location": "Bentota",
+    "price": 37.36,
+    "rating": 3.2,
+    "amenities": [
+      "Parking",
+      "Air Conditioning",
+      "Breakfast",
+      "WiFi"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Bentota Hotel 2",
+    "location": "Bentota",
+    "price": 137.74,
+    "rating": 3.1,
+    "amenities": [
+      "Air Conditioning",
+      "Parking",
+      "Pool"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Bentota Hotel 3",
+    "location": "Bentota",
+    "price": 110.58,
+    "rating": 4.1,
+    "amenities": [
+      "Parking",
+      "WiFi",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Bentota Hotel 4",
+    "location": "Bentota",
+    "price": 32.77,
+    "rating": 3.5,
+    "amenities": [
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Bentota Hotel 5",
+    "location": "Bentota",
+    "price": 52.61,
+    "rating": 3.4,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Pool"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Bentota Hotel 6",
+    "location": "Bentota",
+    "price": 83.79,
+    "rating": 4.4,
+    "amenities": [
+      "Breakfast",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Bentota Hotel 7",
+    "location": "Bentota",
+    "price": 123.54,
+    "rating": 4.2,
+    "amenities": [
+      "Parking",
+      "Spa",
+      "Air Conditioning"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Bentota Hotel 8",
+    "location": "Bentota",
+    "price": 90.65,
+    "rating": 4.7,
+    "amenities": [
+      "Pool",
+      "Breakfast",
+      "Air Conditioning",
+      "Spa"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Bentota Hotel 9",
+    "location": "Bentota",
+    "price": 47.83,
+    "rating": 3.6,
+    "amenities": [
+      "Parking",
+      "Breakfast",
+      "Pool",
+      "Air Conditioning"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Bentota Hotel 10",
+    "location": "Bentota",
+    "price": 36.21,
+    "rating": 3.1,
+    "amenities": [
+      "Parking",
+      "Pool",
+      "Spa"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 1",
+    "location": "Nuwara Eliya",
+    "price": 42.85,
+    "rating": 3.4,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Air Conditioning",
+      "Breakfast"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 2",
+    "location": "Nuwara Eliya",
+    "price": 144.76,
+    "rating": 3.2,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Spa",
+      "Air Conditioning"
+    ],
+    "tag": "Top Rated"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 3",
+    "location": "Nuwara Eliya",
+    "price": 64.07,
+    "rating": 4.3,
+    "amenities": [
+      "Pool",
+      "Parking",
+      "Breakfast",
+      "Air Conditioning"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 4",
+    "location": "Nuwara Eliya",
+    "price": 58.49,
+    "rating": 4.7,
+    "amenities": [
+      "Pool",
+      "Breakfast",
+      "Spa",
+      "WiFi"
+    ],
+    "tag": "Budget Friendly"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 5",
+    "location": "Nuwara Eliya",
+    "price": 121.3,
+    "rating": 4.1,
+    "amenities": [
+      "Parking",
+      "Air Conditioning",
+      "Breakfast",
+      "Pool"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 6",
+    "location": "Nuwara Eliya",
+    "price": 95.71,
+    "rating": 3.0,
+    "amenities": [
+      "Spa",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 7",
+    "location": "Nuwara Eliya",
+    "price": 52.72,
+    "rating": 3.1,
+    "amenities": [
+      "Breakfast",
+      "WiFi",
+      "Parking",
+      "Spa"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 8",
+    "location": "Nuwara Eliya",
+    "price": 146.55,
+    "rating": 4.3,
+    "amenities": [
+      "WiFi",
+      "Breakfast",
+      "Pool",
+      "Parking"
+    ],
+    "tag": "Luxury"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 9",
+    "location": "Nuwara Eliya",
+    "price": 139.28,
+    "rating": 4.1,
+    "amenities": [
+      "Spa",
+      "Parking",
+      "Pool",
+      "Air Conditioning"
+    ],
+    "tag": "Best Value"
+  },
+  {
+    "name": "Nuwara Eliya Hotel 10",
+    "location": "Nuwara Eliya",
+    "price": 75.9,
+    "rating": 3.9,
+    "amenities": [
+      "Air Conditioning",
+      "Parking",
+      "Breakfast"
+    ],
+    "tag": "Top Rated"
+  }
+]

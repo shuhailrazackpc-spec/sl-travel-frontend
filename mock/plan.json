@@ -1,0 +1,64 @@
+{
+  "route": [{
+    "city": "Colombo",
+    "nights": 2
+  }],
+  "perNightBudget": 60,
+  "days": [
+    {
+      "day": 1,
+      "city": "Colombo",
+      "hotel": {
+        "id": "sample1",
+        "name": "Sample Hotel",
+        "location": "Colombo",
+        "price": 50,
+        "rating": 4.3,
+        "amenities": ["WiFi", "Breakfast"],
+        "source": "LOCAL"
+      },
+      "activities": ["City tour", "Temple visit"],
+      "dailySpendEstimate": 20,
+      "notes": "Example day in Colombo"
+    },
+    {
+      "day": 2,
+      "city": "Colombo",
+      "hotel": {
+        "id": "sample1",
+        "name": "Sample Hotel",
+        "location": "Colombo",
+        "price": 50,
+        "rating": 4.3,
+        "amenities": ["WiFi", "Breakfast"],
+        "source": "LOCAL"
+      },
+      "activities": ["Beach walk", "Galle Face Green"],
+      "dailySpendEstimate": 25,
+      "notes": "Another day in Colombo"
+    }
+  ],
+  "recommendedHotels": [
+    {
+      "id": "sample1",
+      "name": "Sample Hotel",
+      "location": "Colombo",
+      "price": 50,
+      "rating": 4.3,
+      "amenities": ["WiFi", "Breakfast"],
+      "source": "LOCAL"
+    }
+  ],
+  "totals": {
+    "lodging": 100,
+    "nonLodging": 45,
+    "trip": 145,
+    "budget": 200,
+    "overBudget": false
+  },
+  "fallbackLinks": {
+    "booking": "https://booking.com",
+    "agoda": "https://agoda.com",
+    "airbnb": "https://airbnb.com"
+  }
+}

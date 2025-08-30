@@ -1,0 +1,12 @@
+/* CSS variables for brand colours */
+:root {
+  --color-primary: #0F2E3D;
+  --color-secondary: #103C5A;
+  --color-accent: #FF7A1A;
+}
+
+.dark {
+  --color-primary: #0F2E3D;
+  --color-secondary: #103C5A;
+  --color-accent: #FF7A1A;
+}
